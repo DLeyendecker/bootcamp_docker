@@ -1,17 +1,18 @@
-### desafio_api_flask
+### projeto_definicao_cluster_swarm
 
 ### Sobre o projeto
-Criando uma API com Flask no Ambiente COLAB.
+Definição de um Cluster Swarm Local com o Vagrant
 
-Para este desafio envolve a entrega de uma API desenvolvida no framework Flask utilizando a Plataforma COLAB. 
-O Objetivo principal está relacionado com a leitura de uma planilha de dados no formato JSON utilizando uma API no ambiente de desenvolvimento colaborativo COLAB.
+Para este projeto foi criado um Cluster Swarm local, utilizando máquinas virtuais, além, de aplicar conhecimentos em Vagrant. 
+Foi aplicado técnicas para evitar as implementações manuais melhorando assim o desempenho dos desenvolvedores.
+
 
 ### Tecnologias utilizadas
-* Python 
+* Docker
 
 ## Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
