@@ -11,6 +11,6 @@ Para este projeto envolve a utilização do Docker Compose para executar uma apl
 ## Autor
 Davi Leyendecker
 
-https://github.com/DaviLeyendecker
+https://github.com/DLeyendecker
 
 https://www.linkedin.com/in/davileyendecker/
