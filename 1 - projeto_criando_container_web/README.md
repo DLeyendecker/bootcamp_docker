@@ -1,13 +1,13 @@
-### desafio_api_flask
+### criando_container_web
 
 ### Sobre o projeto
-Criando uma API com Flask no Ambiente COLAB.
+Criaando um Container de uma Apliacação WEB
 
-Para este desafio envolve a entrega de uma API desenvolvida no framework Flask utilizando a Plataforma COLAB. 
-O Objetivo principal está relacionado com a leitura de uma planilha de dados no formato JSON utilizando uma API no ambiente de desenvolvimento colaborativo COLAB.
+Para este projeto envolve a utilização do Docker Compose para executar uma aplicação HTML em um Container Apache HTTPD.
 
 ### Tecnologias utilizadas
-* Python 
+* Docker
+* HTML
 
 ## Autor
 Davi Leyendecker
