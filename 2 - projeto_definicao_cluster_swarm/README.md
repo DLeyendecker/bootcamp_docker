@@ -4,5 +4,6 @@ Este projeto consistiu na definição de um Cluster Swarm Local com o Vagrant, u
 
 ### Tecnologias utilizadas
 * Docker
+* Vagrant
 
 
